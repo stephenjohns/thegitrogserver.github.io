@@ -1,0 +1,25 @@
+---
+layout: default
+title: Dark Ritual
+nav_order: 3
+parent: Basic Loops
+---
+
+# Dark Ritual Loop
+
+This loop is probably the first thing you should do after drawing your deck. It requires only a single black mana so is easy to start with as all of our instant speed win conditions will require at least 1 generic mana.
+
+Once this loop is done to make black mana, you can filter it into green mana by performing a [Crop Rotation loop](./crop-rotation.md) with Twilight Mire.
+
+## Requirements 
+
+* A discard outlet in play
+* Empty gravyard and library
+* An arbitrarily large number of draw triggers on the stack
+
+## Procedure
+
+1. Cast Dark Ritual
+1. Resolve Dark Ritual
+1. Discard a titan, shuffle
+1. Resolve 2 draw triggers
