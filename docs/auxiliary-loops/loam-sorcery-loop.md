@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Loam Sorcery
-nav_order: 9
+title: Loam Sorcery Loop
+nav_order: 5
 parent: Auxiliary Loops
 ---
 

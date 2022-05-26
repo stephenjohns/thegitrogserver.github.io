@@ -16,7 +16,7 @@ We can now use `list.gitrog.gg` and `discord.gitrog.gg` to easily link people to
 
 ---
 
-### Not-so-cool-things
+### Not-so-cool things
 
 One major thing that needs to be worked on is formatting consistency. For example I know that not all of the loops say the same thing in the same way, such as "Discard a titan shuffler" vs "Discard a titan, shuffle". Functionally these are saying the same thing but it would be more logical if we standardized the language across the site. This is one of the challenges of pulling information from several different people together. This work was pretty tedious so I know that I made mistakes in places.
 

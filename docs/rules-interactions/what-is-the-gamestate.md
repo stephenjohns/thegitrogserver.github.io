@@ -8,7 +8,7 @@ parent: Rules Interactions
 Whenever you’re doing a non-deterministic loop, you need to be very careful of this specific section in [MTR4.4](https://blogs.magicjudges.org/rules/mtr4-4/):
 > Non-deterministic loops may not be shortcut. A player attempting to execute a nondeterministic loop must stop if at any point during the process a previous game state is reached again.
 
-That’s great let’s just check [Yawgatog](https://yawgatog.com/resources/magic-rules) really fast—control-F "game state"—hmm 18 results and not one of them even defines what the "game state" even *is*. Is it just cards on the battlefield? Surly not. Obviously cards in the graveyard count. And I’m sure cards in exile have to count too right? Ok well what about cards on the stack? Do those count? How about cards in your hand? Or cards in a hidden zone? Does the command zone count as part of the game state? If you have a Wishboard then does your Sideboard count as part of the gamestate?
+That’s great let’s just check [Yawgatog](https://yawgatog.com/resources/magic-rules) really fast—control-F "game state"—hmm 18 results and not one of them even defines what the "game state" even *is*. Is it just cards on the battlefield? Surely not. Obviously cards in the graveyard count. And I’m sure cards in exile have to count too right? Ok well what about cards on the stack? Do those count? How about cards in your hand? Or cards in a hidden zone? Does the command zone count as part of the game state? If you have a Wishboard then does your Sideboard count as part of the gamestate?
 
 Nobody fucking knows. And no, I’m not kidding.
 
@@ -72,6 +72,6 @@ He replied
 > 
 > Nik
 
-So if you go to a major tournament in the Southeastern USA and Nik is in charge, then yeah you can cleanup step sculpt. (As long as your library doesn’t shuffle into the exact same order twice.)
+So if you go to a major tournament in the Southeastern USA and Nik is in charge, then yeah you can clean-up step sculpt. (As long as your library doesn’t shuffle into the exact same order twice.)
 
 But we have a problem here, of course. The CR takes time to define what "a [player](https://yawgatog.com/resources/magic-rules/#R102)" is but has not a shred of fucking insight into what constiutes the "game state". The legality of these kinds of interactions are *not* in the rules and as such the tournament legality is up to what the opinions of your head judge are.

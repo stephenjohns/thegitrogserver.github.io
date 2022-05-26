@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Drawing the Library (with Chains)
+title: Drawing the Library
 nav_order: 1
-parent: Auxiliary Loops
+grand_parent: Auxiliary Loops
+parent: Chains of Mephistopheles
 ---
 
 # Drawing the Library with Chains of Mephistopheles

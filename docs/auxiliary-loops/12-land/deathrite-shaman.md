@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 12-land DRS
-nav_order: 3
-parent: Auxiliary Loops
+title: Deathrite Shaman
+nav_order: 2
+grand_parent: Auxiliary Loops
+parent: 12-land
 ---
 
 # 12-land Deathrite Shaman Loop

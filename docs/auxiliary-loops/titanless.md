@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 25 Easy Steps
-nav_order: 5
+title: Titanless
+nav_order: 3
 parent: Auxiliary Loops
 ---
 
-# 25 Easy Steps
+# The 25 Easy Steps
 
 The *X Easy Steps* series is an evolution of loops which allows Gitrog to win without access to a Titan shuffle effect. These are sometimes refered to as "Titanless loops". The first was Noobzaurs’ *60 Easy Steps* which was refined by ForgottenKane (Forge10) into the *20 Easy Steps*, then finally bendinguy’s two loops *25 Easy Steps* and *Budget Easy Steps*. Credit goes also to biopower and mazeTemporal of course.
 

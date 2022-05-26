@@ -1,8 +1,9 @@
 ---
 layout: default
-title: SoF DRS
-nav_order: 10
-parent: Auxiliary Loops
+title: Deathrite Shaman
+nav_order: 2
+grand_parent: Auxiliary Loops
+parent: Survival of the Fittest
 ---
 
 # Survival of the Fittest Deathrite Shaman Loop

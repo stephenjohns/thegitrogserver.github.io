@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Dakmorless 2
-nav_order: 8
-parent: Auxiliary Loops
+title: Dakmorless Method 2
+nav_order: 2
+grand_parent: Auxiliary Loops
+parent: Dakmorless
 ---
 
 # Dakmorless Loop Method 2
-
-These are new Dakmorless infinite mana loops with Crop Rotation and Gaea's Cradle utilizing Survival of the Fittest to shuffle the graveyard into the library by discarding and searching an Eldrazi titan through Survival. This method of shuffling allows us to shuffle in our graveyard without adding another card to our yard/library. Crop Rotation serves as our very own Ancestral Recall because it draws us a card for the additional cost we pay, searches a land from our library and by discarding the land we draw off the gitrog trigger during the loop we generate our third draw. Before each “draw” we shuffle in with survival/titan.
 
 ## Requirements
 

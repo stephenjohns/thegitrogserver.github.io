@@ -2,7 +2,8 @@
 layout: default
 title: Chains as an Outlet
 nav_order: 2
-parent: Auxiliary Loops
+grand_parent: Auxiliary Loops
+parent: Chains of Mephistopheles
 ---
 
 # Chains of Mephistopheles as a Discard Outlet

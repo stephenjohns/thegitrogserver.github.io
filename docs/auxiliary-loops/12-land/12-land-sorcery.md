@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 12-land Sorcery
-nav_order: 4
-parent: Auxiliary Loops
+title: 12-land Sorcery Loop
+nav_order: 1
+grand_parent: Auxiliary Loops
+parent: 12-land
 ---
 
 # 12-land Sorcery Loop

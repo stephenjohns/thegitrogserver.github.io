@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Obsolete Loops
+title: Rules Interactions
 nav_order: 7
 has_children: true
 permalink: docs/rules-interactions
