@@ -16,4 +16,4 @@ Please consider donating to both [Scryfall](https://scryfall.com/donate) and [Mo
 
 ### Contributing
 
-This is the home of currated knowledge from our community Discord server. Please feel free to edit and contribute. No programming knowledge is required. Feel free to reach out to KJ on our Discord if you have any questions.
+This is the home of currated knowledge from our community Discord server. Please feel free to edit and [contribute](https://github.com/TheGitrogServer/thegitrogserver.github.io/discussions). No programming knowledge is required. Feel free to reach out to KJ on our Discord if you have any questions.
