@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Budget Easy Steps
-nav_order: 2
+nav_order: 4
+grand_parent: Budget
 parent: Budget Loops
 ---
 
