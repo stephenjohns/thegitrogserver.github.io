@@ -1,0 +1,27 @@
+a {
+  color: #40d140;
+}
+
+.search-input {
+  color: #e6e1e8;
+}
+
+svg {
+ color: #40d140;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  color: #40d140;
+}
+
+@media (min-width: 31.25rem) {
+    .search-result-title {
+	    color: #40d140;
+	}
+}
+
+@media (min-width: 50rem) {
+    .nav-list .nav-list-item .nav-list-expander {
+        color: #40d140;
+    }
+}
