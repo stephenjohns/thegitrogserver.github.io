@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Budget Loops
-nav_order: 5
+nav_order: 1
+parent: Budget
 has_children: true
-permalink: docs/budget-loops
+permalink: docs/budget/budget-loops
 ---
 
 # Budget Loops

@@ -24,10 +24,10 @@ I would also (eventually) like to have each insance of a card hyperlink to its S
 
 Another thing is most—if not all—of the title pages (for example the "Basic Loops" page) only have a bulleted list of their subsections. It would be nice to have a brief description of *why* these things are basic, and these things are auxiliary, etc rather than just listing them all with no real description. It is obivous to those familiar with the deck but perhaps not obivous at all to someone new.
 
-And finally I need help from our budget players to decide among yourselves what the viäble/worthwile budget loops are, then either
+<s>And finally I need help from our budget players to decide among yourselves what the viäble/worthwile budget loops are, then either
 1. Send me the loops so that I can put them on the site
 2. Upload them to the site yourself
-so that we can properly represent the budget side of our community, etc, etc.
+so that we can properly represent the budget side of our community, etc, etc.</s> PANCAKE WANTED BUDGET TO BE AT THE BOTTOM. I wanted it right before "Obsolete Loops" but he insisted it should be at the bottom. Some bullshit about "equal weighting" and "people’s eyes gravitate towards the top *and* the bottom of a list" so it’s not actually at the bottom or something? Look "Budget" isn’t at the bottom because I relegated it there ok. He wanted it there.
 
 I’m open to ideas about these. Please help. If you don’t want to/don’t have time to/don’t feel comfortable to edit the page, but you see an error or have a suggestion just message me on Discord and I will do it.
 
@@ -40,5 +40,5 @@ Thanks
 
 - [ ] Achieve language consistency.
 - [ ] Achieve formatting consistency.
-- [ ] Finish "Budget Loops" section.
+- [X] Finish "Budget Loops" section.
 - [ ] Hyperlink the card names to their Scryfall page.
