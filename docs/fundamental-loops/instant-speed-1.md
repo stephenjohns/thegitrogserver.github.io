@@ -3,6 +3,8 @@ layout: default
 title: Instant Loop 1
 nav_order: 3
 parent: Fundamental Loops
+has_children: true
+permalink: docs/fundamental-loops/instant-speed-1/
 ---
 
 # Basic Instant-speed Loop 1

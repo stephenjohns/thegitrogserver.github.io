@@ -3,6 +3,8 @@ layout: default
 title: Sorcery Loop
 nav_order: 5
 parent: Fundamental Loops
+has_children: true
+permalink: docs/fundamental-loops/sorcery-speed/
 ---
 
 # Basic Sorcery-speed Loop

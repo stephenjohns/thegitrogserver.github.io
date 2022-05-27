@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Lotus Petal
-nav_order: 6
-parent: Basic Loops
+nav_order: 1
+grand_parent: Fundamental Loops
+parent: Sorcery Loop
 ---
 
 # Lotus Petal Loop

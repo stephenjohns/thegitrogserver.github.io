@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Dark Ritual
-nav_order: 3
-parent: Basic Loops
+nav_order: 1
+grand_parent: Fundamental Loops
+parent: Instant Loop 1
 ---
 
 # Dark Ritual Loop

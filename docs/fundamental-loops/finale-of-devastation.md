@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Finale of Devastation
-nav_order: 5
-parent: Basic Loops
+nav_order: 6
+parent: Fundamental Loops
 ---
 
 # Finale of Devastation

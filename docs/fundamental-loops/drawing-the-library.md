@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drawing the Library
-nav_order: 2
+nav_order: 1
 parent: Fundamental Loops
 ---
 
