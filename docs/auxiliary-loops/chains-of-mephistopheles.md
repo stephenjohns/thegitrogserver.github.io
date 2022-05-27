@@ -9,4 +9,6 @@ permalink: docs/auxiliary-loops/chains-of-mephistopheles
 
 # Chains of Mephistopheles
 
+![](https://i.imgur.com/UBs6lD9.png)
+
 {: .no_toc }
