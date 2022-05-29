@@ -36,6 +36,12 @@ Thanks
 
 ---
 
+### Contributing
+
+See [contributing.md](./contributing.md).
+
+---
+
 ### TODO
 
 - [ ] Achieve language consistency.
