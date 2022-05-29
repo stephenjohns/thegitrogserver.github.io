@@ -25,13 +25,13 @@ The formatting is done automagically. Here’s a [cheatsheet](https://www.markdo
 And you can always look at other files that are already here to see how they’re formatted.
 
 ```
-index.md -----------------------------------------| This is the home page.
-docs/    -----------------------------------------| Everything else is under "docs/"
-     auxiliary-loops/ ----------------------------| Main section
+index.md ---------------------------------------------| This is the home page.
+docs/    ---------------------------------------------| Everything else is under "docs/"
+     auxiliary-loops/ --------------------------------| Main section
 	                 12-land.md ------------------| Sub-section
 	                 12-land/
 	                         12-land-sorcery.md --| Sub-section
-			                 deathrite-shaman.md -|
+			         deathrite-shaman.md -|
 	 cabal-ritual.md  ----------------------------| These two documents stand alone
 	 titanless.md     ----------------------------| and have no subsections under them.
 			 
@@ -53,6 +53,8 @@ parent: ["title:" of the section this document appears under]
 permalink: [Optional. Only use with grand_parent. Full path to the file]
 ----
 ```
+
+Don’t forget you can look at some of the pages that have already been created to get a better understanding of how this works.
 
 ## Discussions / Other Questions
 
