@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SoF Sorcery Loop
-nav_order: 1
+nav_order: 3
 grand_parent: Auxiliary Loops
 parent: Survival of the Fittest
 ---

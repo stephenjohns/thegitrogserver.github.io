@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deathrite Shaman
-nav_order: 2
+nav_order: 4
 grand_parent: Auxiliary Loops
 parent: Survival of the Fittest
 ---

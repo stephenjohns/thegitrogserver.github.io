@@ -3,7 +3,7 @@ layout: default
 title: Dakmorless Method 2
 nav_order: 2
 grand_parent: Auxiliary Loops
-parent: Dakmorless
+parent: Survival of the Fittest
 ---
 
 # Dakmorless Loop Method 2
