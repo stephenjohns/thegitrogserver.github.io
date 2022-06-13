@@ -14,16 +14,15 @@ You can use this basic loop to cast any sorcery an arbitrary number of times. Fo
 ## Requirements
 
 * A discard outlet in play
-* Empty stack, graveyard, and library
+* Empty stack, library
+* Graveyard contains only Life from the Loam
 * Unbounded mana
 
 ## Procedure
 
 1. Cast and resolve [*sorcery*]
-1. Discard any land, holding priority on the draw trigger
 1. Discard a titan, resolve shuffle trigger
-1. Discard and dredge Dakmor, stacking the draw trigger below the shuffle and resolve the shuffle trigger only
-1. Discard and dredge Dakmor, stacking the draw trigger below the shuffle again, but hold priority on the shuffle trigger
-1. Resolve the shuffle trigger and all three draw triggers
+1. Discard 3 lands and resolve those draw triggers
+1. Cast Life from the Loam targeting the 3 lands in your graveyard
 
 You are now back at your initial board state after having cast a sorcery spell.
