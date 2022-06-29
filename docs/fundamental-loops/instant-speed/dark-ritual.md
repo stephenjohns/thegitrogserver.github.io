@@ -3,14 +3,14 @@ layout: default
 title: Dark Ritual
 nav_order: 1
 grand_parent: Fundamental Loops
-parent: Instant Loop 1
+parent: Instant Loop
 ---
 
 # Dark Ritual Loop
 
 This loop is probably the first thing you should do after drawing your deck. It requires only a single black mana so is easy to start with as all of our instant speed win conditions will require at least 1 generic mana.
 
-Once this loop is done to make black mana, you can filter it into green mana by performing a [Crop Rotation loop](./crop-rotation.md) with Twilight Mire.
+Once this loop is done to make black mana, you can filter it into green mana by performing a [Crop Rotation loop](../../basic-loops/crop-rotation.md) with Twilight Mire.
 
 ## Requirements 
 

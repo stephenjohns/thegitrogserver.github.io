@@ -3,7 +3,7 @@ layout: default
 title: Assassin’s Trophy
 nav_order: 2
 grand_parent: Fundamental Loops
-parent: Instant Loop 1
+parent: Instant Loop
 ---
 
 # Assassin’s Trophy Loop

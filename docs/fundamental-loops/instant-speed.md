@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Instant Loop 1
+title: Instant Loop
 nav_order: 3
 parent: Fundamental Loops
 has_children: true
-permalink: docs/fundamental-loops/instant-speed-1/
+permalink: docs/fundamental-loops/instant-speed/
 ---
 
-# Basic Instant-speed Loop 1
+# Basic Instant-speed Loop
 
 This loop is particularly useful if you’re going off over the top of other instant-speed interaction.
 
