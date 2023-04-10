@@ -3,7 +3,7 @@ layout: default
 title: Lotus Petal Loop
 nav_order: 5
 parent: Fundamental Loops
-has_children: true
+has_children: false
 permalink: docs/fundamental-loops/lotus-petal/
 ---
 
